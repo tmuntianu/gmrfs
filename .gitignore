@@ -131,3 +131,8 @@ dmypy.json
 model.py
 *sample.bo
 main_script.py
+*aux
+*log
+*bbl
+*blg
+*out
