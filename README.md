@@ -10,4 +10,5 @@ existed.
 
 `report/` contains all of the LaTeX and images used to generate `report.pdf`
 
-I'll clean up the GMRF notebooks soon, sorry it's such a mess right now.
+I will clean up the GMRF notebooks soon, but the interesting parts are mostly
+described in `report.pdf`.
